@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Class-Path: httpclient-4.5.3.jar tomcat-coyote-9.0.14.jar commons-logg
+ ing-1.2.jar rest-assured-3.3.0.jar rest-assured-common-3.3.0.jar mong
+ odb-driver-core-3.8.2.jar gson-2.7.jar jaxb-api-2.2.12.jar tomcat-cat
+ alina-9.0.14.jar tomcat-api-9.0.14.jar tomcat-jaspic-api-9.0.14.jar m
+ ongodb-driver-3.8.2.jar hamcrest-all-1.3.jar tomcat-annotations-api-9
+ .0.14.jar bson-3.8.2.jar tomcat-jni-9.0.14.jar json-path-3.3.0.jar to
+ mcat-util-9.0.14.jar groovy-2.4.15.jar tagsoup-1.2.1.jar junit-4.12.j
+ ar activation-1.1.jar groovy-xml-2.4.15.jar tomcat-servlet-api-9.0.14
+ .jar httpmime-4.5.3.jar tomcat-juli-9.0.14.jar xml-path-3.3.0.jar gro
+ ovy-json-2.4.15.jar commons-codec-1.9.jar mail-1.5.0-b01.jar hamcrest
+ -core-1.3.jar tomcat-jsp-api-9.0.14.jar httpcore-4.4.6.jar tomcat-el-
+ api-9.0.14.jar tomcat-util-scan-9.0.14.jar commons-lang3-3.4.jar org.
+ apache.sling.javax.activation-0.1.0.jar json-20160810.jar jaxb-osgi-2
+ .2.10.jar hamcrest-library-1.3.jar
+Main-Class: 
+

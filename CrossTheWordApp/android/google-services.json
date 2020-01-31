@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530179585211",
+    "project_id": "crucy-143610"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530179585211:android:a74d80bdd2ec1ef0",
+        "android_client_info": {
+          "package_name": "it.uniroma1.lcl.crucy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530179585211-qfpum8rf7btcg6vjldnrc5k0kcn22bj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.uniroma1.lcl.crucy",
+            "certificate_hash": "221CF3CC157297B349F1E899ACF73FB9F447C586"
+          }
+        },
+        {
+          "client_id": "530179585211-0p58fni5c3nuvl4bku4k6mi5iftlc6hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVXamQhH1220NJcvUCpA8kf6wSbiCSVb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
